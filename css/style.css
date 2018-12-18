@@ -1,0 +1,236 @@
+* {
+    font-family: 'Crimson Text';
+    font-weight: 300;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 500;
+    color: #dcdcdc;
+}
+
+h3 {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #222222;
+    text-transform: uppercase;
+}
+
+p {
+    color: #999999;
+    font-size: 16px;
+}
+
+hr {
+    background: #ff2323;
+    width: 100px;
+    height: 3px;
+    margin-left: 0;
+}
+
+.btn {
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    background: #000;
+    border-radius: 0%;
+}
+.header {
+    background: url('../img/bgright.png') center center;
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+}
+.header .navbartop .navbar a {
+    text-transform: uppercase;
+    color: #ff2323;
+}
+.header .navbartop .navbar ul li a {
+    text-transform: uppercase;
+    color: #fff;
+}
+.header .navbartop .navbar ul li a:hover {
+    color: #ff2323;
+}
+.header .title a {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #999999;
+    text-decoration: none;
+}
+.header .title {
+    position: absolute;
+    bottom: 31%;
+    left: 13%;
+}
+.header .title hr {
+    margin-left: 0;
+}
+.header .title a:hover {
+    color: #ff2323;
+}
+.creative {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.creative h3 {
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+.creative h3 b {
+    color: #ff2323;
+}
+.creative hr {
+    margin-top: 40px;
+}
+.services {
+    background: url('../img/bgsec.png');
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+}
+.services .left {
+    margin-top: 120px;
+}
+.services .left h3 {
+    margin-bottom: 80px;
+    color: #999999
+}
+.services .left h3 b {
+    color: #ff2323;
+}
+.services .left hr {
+    margin-top: 40px;
+}
+.services  .right .plusses{
+    background: #fff;
+    margin-top: 30px;
+}
+.services  .right .plusses h4 {
+    color: #1a1a1a;
+}
+.services  .right .plusses img {
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.services  .right .plusses hr {
+    width: 50px;
+}
+.services  .right .plusses .brand {
+    margin-left: 40px;
+}
+.services  .right .plusses .branda {
+    margin-left: 40px;
+    padding-bottom: 50px;
+    margin-bottom: 40px;
+}
+.projects .col-lg-6 {
+    padding: 0;
+}
+.projects h3 {
+    margin-top: 50px;
+    text-align: center;
+}
+.projects h3 b {
+    color: #ff2323;
+}
+.projects a {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #1a1a1a;
+}
+.projects a:hover {
+    color: #ff2323;
+    text-decoration: none;
+}
+.company {
+    background: #454342;
+}
+.company h3 {
+    margin-bottom: 50px;
+    margin-top: 180px;
+    color: #dcdcdc;
+}
+.company h3 b {
+    color: #ff2323;
+}
+.company hr {
+    margin-top: 50px;
+}
+.company img {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer {
+    background: url('../img/bgfooter.png') center;
+    background-size: cover;
+    height: 100vh;
+}
+.footer h3 {
+    margin-top: 180px;
+    color: #999999;
+}
+.footer h3 b {
+    color: #ff2323;
+}
+.footer p {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.footer p a {
+    color: #999999;
+    text-transform: none;
+    text-decoration: none;
+}
+.footer p a:hover {
+    color: #ff2323;
+}
+.footer form {
+    margin-top: 180px;
+    background: none;
+    color: none;
+}
+.footer form input {
+    background: none;
+    color: none;
+    border: none;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 40px;
+}
+.footer form input:hover {
+    background: none;
+    color: none;
+    border: none;
+    border-bottom: 1px solid #fff;
+}
+.footer .btn {
+    background: none;
+    border: none;
+    color: #fff;
+    line-height: 20px;
+}
+.footer .btn i {
+    color: #ff2323;
+    font-size: 20px;
+    margin-left: 10px;
+}
